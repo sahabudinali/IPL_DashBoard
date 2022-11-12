@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### React App ###
+#we don't need to node module get track by git
+src/frontend/node_modules/
